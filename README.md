@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Connect With Me  
-- ![LinkedIn](http://www.linkedin.com/in/alfiyasimran)
+- ![LinkedIn][![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://skillicons.dev)(http://www.linkedin.com/in/alfiyasimran)
 - ![Portfolio](https://portfolio-alfiyasimran.vercel.app)
 - ![Mail](simranalfiya@gmail.com )
 
