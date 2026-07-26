@@ -52,7 +52,8 @@
 ---
 
 ## 📫 Connect With Me  
-- LinkedIn: [http://www.linkedin.com/in/alfiyasimran]  
+- LinkedIn: [http://www.linkedin.com/in/alfiyasimran]
+- Portfolio: [https://portfolio-alfiyasimran.vercel.app]
 - Email: simranalfiya@gmail.com 
 
 <br>
