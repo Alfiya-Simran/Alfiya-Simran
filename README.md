@@ -22,7 +22,7 @@
 | **Programming** | ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) |
 | **Data Analytics** | ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **Data Science / Machine Learning** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) |
-| **Data Visualization & BI** | <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" alt="Power BI"/> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" alt="Streamlit"/> |
+| **Data Visualization & BI** | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/powerbi.webp" width="48" alt="Power BI"/> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" alt="Streamlit"/> |
 | **Tools & Platforms** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker) |
 
 <br>
