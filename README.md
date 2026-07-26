@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.icons8.com/?size=50&id=8808&format=png&color=000000)](http://www.linkedin.com/in/alfiyasimran)
-[![Portfolio](https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000)](https://portfolio-alfiyasimran.vercel.app)
+[![Portfolio](https://img.icons8.com/?size=50&id=AfM2kzPzTz6Q&format=png&color=000000)](https://portfolio-alfiyasimran.vercel.app)
 [![Mail](https://www.flaticon.com/free-icons/email "email icons")](simranalfiya@gmail.com)
 
 <br>
