@@ -68,19 +68,3 @@
 <br>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfiya-Simran&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfiya-Simran&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfiya-Simran&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alfiya-Simran&label=Profile%20views&color=blue&style=plastic&abbreviated=true" alt="views" />
-</p>
-
----
