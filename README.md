@@ -52,9 +52,9 @@
 ---
 
 ## 📫 Connect With Me  
-- LinkedIn: !LinkedIn(http://www.linkedin.com/in/alfiyasimran)
-- Portfolio: !Portfolio(https://portfolio-alfiyasimran.vercel.app)
-- Email: simranalfiya@gmail.com 
+- ![LinkedIn](http://www.linkedin.com/in/alfiyasimran)
+- ![Portfolio](https://portfolio-alfiyasimran.vercel.app)
+- ![Mail](simranalfiya@gmail.com )
 
 <br>
 
