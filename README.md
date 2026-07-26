@@ -53,8 +53,8 @@
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](http://www.linkedin.com/in/alfiyasimran)
-- ![Portfolio](https://portfolio-alfiyasimran.vercel.app)
-- ![Mail](simranalfiya@gmail.com )
+[![Portfolio](https://www.flaticon.com/free-icons/folder "folder icons")](https://portfolio-alfiyasimran.vercel.app)
+[![Mail](https://www.flaticon.com/free-icons/email "email icons")](simranalfiya@gmail.com)
 
 <br>
 
