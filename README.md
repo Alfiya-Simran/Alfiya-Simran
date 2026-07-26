@@ -54,7 +54,8 @@
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](http://www.linkedin.com/in/alfiyasimran)
 [![Portfolio](https://img.icons8.com/?size=50&id=AfM2kzPzTz6Q&format=png&color=000000)](https://portfolio-alfiyasimran.vercel.app)
-![Mail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000) : [simranalfiya@gmail.com](mailto:simranalfiya@gmail.com)
+[![Mail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:simranalfiya@gmail.com)
+**Email:** [simranalfiya@gmail.com](mailto:simranalfiya@gmail.com)
 
 <br>
 
