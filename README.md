@@ -60,11 +60,3 @@
 <br>
 
 ---
-
-## ✨ Fun Facts  
-- I love writing Hindi & Urdu poetry (Shayari) — exploring words beyond code.  
-- In my free time I explore emerging tech, contribute to open source & build bold portfolio pieces.  
-
-<br>
-
----
