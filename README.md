@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Languages & Tools  
+## 🛠️ Technologies I Work With
 
 | Category | Icons |
 |----------|-------|
